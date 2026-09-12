@@ -2,9 +2,9 @@
 
 Explore the Solar System in an immersive 3D experience.
 
-## Download
+## 🚀 Download
 
-Download Solar Atlas for Windows from the Releases section.
+[⬇️ DOWNLOAD SOLAR ATLAS](https://github.com/itsyaboisufisaint/Solar-Atlas/releases/latest/download/Solar%20System.exe)
 
 ## Features
 
