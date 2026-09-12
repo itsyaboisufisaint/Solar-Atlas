@@ -4,7 +4,7 @@ Explore the Solar System in an immersive 3D experience.
 
 ## 🚀 Download
 
-[⬇️ DOWNLOAD SOLAR ATLAS](https://github.com/itsyaboisufisaint/Solar-Atlas/releases/latest/download/Solar%20System.exe)
+[⬇️ DOWNLOAD SOLAR ATLAS](https://github.com/itsyaboisufisaint/Solar-Atlas/releases/download/v1.0.0/Solar.System.exe)
 
 ## Features
 
