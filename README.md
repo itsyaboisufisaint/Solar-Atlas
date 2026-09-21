@@ -8,7 +8,9 @@ Explore the Solar System in an immersive 3D experience.
 
 ## WEBSITE
 
-[LINK OF SOLARATLAS](solar-atlas-system.netlify.app)
+https://solar-atlas-system.netlify.app
+NAME: admin
+Password: admin
 
 ## Features
 
